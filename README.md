@@ -10,7 +10,8 @@
 
 ---
 
-## 
+## How It Works
+
 
 1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
 2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
